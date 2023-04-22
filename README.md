@@ -1,6 +1,6 @@
 ### Hi,welcome .
 # 💫 About Me:
-My name is Aviva<br>I am trainee and future android developer.<br>Currently study in Geeks .
+My name is Aviva<br>I am trainee and future android developer.<br>Currently study in Geeks.
 
 
 ## 🌐 Socials:
@@ -14,19 +14,17 @@ My name is Aviva<br>I am trainee and future android developer.<br>Currently stud
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bermeternazarova&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=black)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bermeternazarova&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
+![](https://github-contributor-stats.vercel.app/api?username=bermeternazarova&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 ---
 [![](https://visitcount.itsvg.in/api?id=bermeternazarova&icon=5&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+<img height="80" alt="Thanks for visiting my profile" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<p align="center">
 <!--
 **bermeternazarova/bermeternazarova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
